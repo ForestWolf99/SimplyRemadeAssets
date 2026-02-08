@@ -1,3 +1,11 @@
 {
-    "v1": "https://github.com/ForestWolf99/SimplyRemadeAssets/raw/refs/heads/main/SimplyRemadeAssetsV1.zip"
+  "Version": "1.0.0",
+  "Assets": [
+    {
+      "Name": "Simply Remade Assets V1",
+      "Url": "https://github.com/ForestWolf99/SimplyRemadeAssets/raw/refs/heads/main/SimplyRemadeAssetsV1.zip",
+      "FileName": "SimplyRemadeAssetsV1.zip",
+      "DeleteAfterExtract": true
+    }
+  ]
 }
